@@ -1,0 +1,15 @@
+# Core numerical and scientific computing libraries
+numpy
+scipy
+
+# Primary library for music and audio analysis
+librosa
+
+# For plotting and visualization (used by librosa and pychorus)
+matplotlib
+
+# For finding chorus sections using similarity matrices
+pychorus
+
+# For initial music structure segmentation
+msaf
